@@ -1,5 +1,5 @@
 module Main where
-
+-- rodar stack repl --package random no terminal antes de abrir
 -- Aqui estou importando algumas funções para transformar de inteiros para caracteres
 --  e vice-vesa, funções de entrada/saída e números aleatóreos:
 
